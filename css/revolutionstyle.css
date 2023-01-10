@@ -1,0 +1,15 @@
+.container {
+  position: relative;
+}
+
+.centered {
+  color: white;
+  background-color: rgba(0,0,0,0.5);
+  padding: 0.5em;
+  font-weight: 900;
+  font-size: 17px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
